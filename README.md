@@ -35,9 +35,7 @@
 <p align="left" style="background:transparent">
 
 </a>
-<a href="https://twitter.com/goianonacidade" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-yaguera-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+
 <a href="https://www.linkedin.com/in/yago-ribeiro-de-oliveira-289184232/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Yago Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -45,8 +43,6 @@
  <img align="center" src="https://img.shields.io/badge/-yagooliveira-05122A?style=flat&logo=instagram" alt="instagram"/>
 
 </a>
-<a href="https://wa.me/5561998452511?text=Ol%C3%A1+poderiamos+conversar+" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp" />
 
 
 
