@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/yago-ribeiro-de-oliveira-289184232/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Yago Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/yagooliveira_04/" target="_blank">
+<a href="https://www.instagram.com/yago_jpg/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-yagooliveira-05122A?style=flat&logo=instagram" alt="instagram"/>
 
 </a>
