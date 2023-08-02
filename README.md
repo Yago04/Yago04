@@ -40,7 +40,7 @@
   <img align="center" src="https://img.shields.io/badge/-Yago Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/yago_jpg/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-yagooliveira-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-yago_jpg-05122A?style=flat&logo=instagram" alt="instagram"/>
 
 </a>
 
