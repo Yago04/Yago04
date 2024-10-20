@@ -1,48 +1,61 @@
 
 
-<img align="right" height="590em" src=https://raw.githubusercontent.com/gist/Yago04/31791444cfcb50efa8522f194a216dfb/raw/709a6536e4cbf05272c30130b75a44eb6eca07f0/guthubcard.svg />
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yago Ribeiro</h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Yago04&color=yellow alt="Profile views" /> </p>
+# Oi, me chamo Yago 👋
 
-- 🔥 I'm a software engineering student
+### Sobre mim
 
-- 🔭 I'm a developer in constant development
-        
-- 💬studying **JavaScript, HTML, CSS, SQL, Python**
+💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
 
-- ⚡  I love coffe 
+🎓 Eu estudo [Desenvolvimento de Software Fullstack]| Desenvolvimento de Software com Foco em Front-End|Universidade Catolica de Brasilia | 
+
+👩‍💻 Atualmente eu trabalho como [Estagiário] Banco do Brasil(BB Seguro)
 
 
 
-## 🛠 &nbsp;Tech Stack
+### Eu já trabalhei com... 🔧
+
+**Tecnologias e Ferramentas**
 
 
 
-<div style="display: inline_block"><br/>
-    <img align="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-</div><br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br><br>
 
-## Contact 
+### Eu estou estudando... 🧩
 
-<p align="left" style="background:transparent">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-</a>
 
-<a href="https://www.linkedin.com/in/yago-ribeiro-de-oliveira-289184232/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Yago Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/yago_jpg/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-yago_jpg-05122A?style=flat&logo=instagram" alt="instagram"/>
+<!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
-</a>
+### Cursos realizados 🤓
 
+
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/Yago04">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago04&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+### Entre em contato comigo! 📭
+<div>
+
+<a href="https://w.app/LAV" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yagooliveira04/i" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
