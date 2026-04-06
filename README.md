@@ -66,16 +66,7 @@ Tenho foco em criar soluções eficientes, escaláveis e com boa experiência pa
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
----
-
-## ⚡ Sobre este GitHub
-
-Aqui você vai encontrar projetos focados em:
-
-- 🌐 Desenvolvimento Web Full Stack  
-- 🤖 Automações e soluções com tecnologia  
-- 🧪 Experimentos e estudos práticos  
-
----
-
 💡 *Sempre buscando evoluir como desenvolvedor e construir soluções que fazem a diferença.*
+
+
+![snake gif](https://github.com/Yago04/Yago04/blob/output/github-contribution-grid-snake.svg)
