@@ -46,16 +46,6 @@ Tenho foco em criar soluções eficientes, escaláveis e com boa experiência pa
 
 ---
 
-## 📈 GitHub Stats
-
-<div>
-<a href="https://github.com/Yago04">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago04&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ## 📬 Contato
 
 <a href="https://w.app/LAV" target="_blank">
