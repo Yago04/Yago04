@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner1.png" alt="Banner" width="100%">
+  <img src="./banner1.png" alt="Banner" width="100%" height="660px">
 </p>
 
 <h1 align="center">Olá 👋, sou o Yago</h1>
