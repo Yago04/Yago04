@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner1.png" alt="Banner" width="100%" height="660px">
+  <img src="./banner1.png" alt="Banner" width="50%" height="100%">
 </p>
 
 <h1 align="center">Olá 👋, sou o Yago</h1>
@@ -38,7 +38,7 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css" height="45" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,vscode,linux" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,vscode," height="45" />
 </p>
 
 ---
