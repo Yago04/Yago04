@@ -60,16 +60,4 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
 
 ---
 
-<h2 align="center">🤝 Conectar</h2>
 
-<p align="center">
-  <a href="https://github.com/Yago04">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Para entender a recursão, primeiro você deve entender a recursão." — Anônimo</i>
-</p>
